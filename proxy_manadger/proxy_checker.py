@@ -39,7 +39,7 @@ logger = logging.getLogger(__name__)
 
 CONFIG = {
     "timeout": 15,
-    "max_concurrent": 100,
+    "max_concurrent": 1000,
     "test_url": "http://httpbin.org/ip",
     "test_urls": [
         "http://httpbin.org/ip",
@@ -49,7 +49,7 @@ CONFIG = {
     "good_proxies_file": "good_proxies.txt",
     "bad_proxies_file": "bad_proxies.txt",
     "proxies_file": "proxies.txt",
-    "check_interval": 3600,
+    "check_interval": 300,
     "min_proxies": 10,
     "sources": [
         # HTTP/HTTPS прокси
