@@ -76042,3 +76042,52 @@ ConnectionResetError: [WinError 10054] Удаленный хост принуд�
 2026-09-15 17:20:05,957 - INFO - ➕ Добавлен новый прокси: 47.90.149.238:9098
 2026-09-15 17:20:05,960 - INFO - 💾 Сохранено 24 прокси в good_proxies.txt
 2026-09-15 17:20:57,437 - INFO - 📂 Загружено 24 прокси с датами из good_proxies.txt
+2026-09-17 21:02:36,185 - INFO - 📂 Загружено 24 прокси с датами из good_proxies.txt
+2026-09-17 21:02:36,191 - INFO - 🗑️ Удалено 24 прокси старше 2 дней
+2026-09-17 21:02:36,193 - INFO - 💾 Сохранено 0 прокси в good_proxies.txt
+2026-09-17 21:02:36,194 - INFO - 
+🌐 Скачиваю прокси из 36 источников...
+2026-09-17 21:02:36,570 - INFO - ✅ https://api.proxyscrape.com/v2/?request=displayproxies&proto... -> 213 прокси
+2026-09-17 21:02:36,628 - INFO - ✅ https://raw.githubusercontent.com/hookzof/socks5_list/master... -> 10104 прокси
+2026-09-17 21:02:36,630 - INFO - ✅ https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master... -> 40 прокси
+2026-09-17 21:02:36,633 - INFO - ✅ https://raw.githubusercontent.com/clarketm/proxy-list/master... -> 400 прокси
+2026-09-17 21:02:36,640 - INFO - ✅ https://api.proxyscrape.com/v2/?request=displayproxies&proto... -> 572 прокси
+2026-09-17 21:02:36,658 - INFO - ✅ https://api.proxyscrape.com/v2/?request=displayproxies&proto... -> 1935 прокси
+2026-09-17 21:02:36,661 - INFO - ✅ https://raw.githubusercontent.com/monosans/proxy-list/main/p... -> 0 прокси
+2026-09-17 21:02:36,677 - INFO - ✅ https://raw.githubusercontent.com/TheSpeedX/PROXY-List/maste... -> 2194 прокси
+2026-09-17 21:02:36,695 - INFO - ✅ https://raw.githubusercontent.com/TheSpeedX/PROXY-List/maste... -> 1905 прокси
+2026-09-17 21:02:36,699 - INFO - ✅ https://raw.githubusercontent.com/prxchk/proxy-list/main/htt... -> 58 прокси
+2026-09-17 21:02:36,721 - INFO - ✅ https://raw.githubusercontent.com/TheSpeedX/PROXY-List/maste... -> 2205 прокси
+2026-09-17 21:02:36,726 - INFO - ✅ https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master... -> 279 прокси
+2026-09-17 21:02:36,728 - WARNING - ⚠️ https://raw.githubusercontent.com/hendrikbgr/Proxy-List/main... -> статус 404
+2026-09-17 21:02:36,732 - WARNING - ⚠️ https://raw.githubusercontent.com/TheSpeedX/PROXY-List/maste... -> статус 404
+2026-09-17 21:02:36,735 - WARNING - ⚠️ https://raw.githubusercontent.com/hendrikbgr/Proxy-List/main... -> статус 404
+2026-09-17 21:02:36,739 - INFO - ✅ https://raw.githubusercontent.com/prxchk/proxy-list/main/soc... -> 32 прокси
+2026-09-17 21:02:36,747 - INFO - ✅ https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master... -> 13 прокси
+2026-09-17 21:02:36,749 - WARNING - ⚠️ https://raw.githubusercontent.com/prxchk/proxy-list/main/htt... -> статус 404
+2026-09-17 21:02:36,766 - INFO - ✅ https://api.proxyscrape.com/v2/?request=displayproxies&proto... -> 1175 прокси
+2026-09-17 21:02:36,770 - WARNING - ⚠️ https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master... -> статус 404
+2026-09-17 21:02:36,774 - INFO - ✅ https://raw.githubusercontent.com/opsxcq/proxy-list/master/l... -> 343 прокси
+2026-09-17 21:02:36,776 - WARNING - ⚠️ https://raw.githubusercontent.com/hendrikbgr/Proxy-List/main... -> статус 404
+2026-09-17 21:02:36,784 - INFO - ✅ https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master... -> 661 прокси
+2026-09-17 21:02:36,796 - WARNING - ⚠️ https://raw.githubusercontent.com/sunny9577/proxy-scraper/ma... -> статус 404
+2026-09-17 21:02:36,797 - WARNING - ⚠️ https://raw.githubusercontent.com/sunny9577/proxy-scraper/ma... -> статус 404
+2026-09-17 21:02:36,839 - INFO - ✅ https://api.proxyscrape.com/?request=displayproxies&proxytyp... -> 610 прокси
+2026-09-17 21:02:36,849 - INFO - ✅ https://raw.githubusercontent.com/prxchk/proxy-list/main/soc... -> 10 прокси
+2026-09-17 21:02:36,936 - WARNING - ⚠️ https://raw.githubusercontent.com/sunny9577/proxy-scraper/ma... -> статус 404
+2026-09-17 21:02:37,003 - INFO - ✅ https://api.proxyscrape.com/?request=displayproxies&proxytyp... -> 1948 прокси
+2026-09-17 21:02:37,029 - INFO - ✅ https://api.proxyscrape.com/?request=displayproxies&proxytyp... -> 226 прокси
+2026-09-17 21:02:37,092 - INFO - ✅ https://api.proxyscrape.com/?request=displayproxies&proxytyp... -> 1179 прокси
+2026-09-17 21:02:37,121 - WARNING - ⚠️ https://raw.githubusercontent.com/hendrikbgr/Proxy-List/main... -> статус 404
+2026-09-17 21:02:37,162 - INFO - ✅ https://api.proxyscrape.com/v2/?request=displayproxies&proto... -> 644 прокси
+2026-09-17 21:02:37,210 - INFO - ✅ https://api.proxyscrape.com/v2/?request=displayproxies&proto... -> 1000 прокси
+2026-09-17 21:02:37,264 - INFO - ✅ https://api.proxyscrape.com/v2/?request=displayproxies&proto... -> 1000 прокси
+2026-09-17 21:02:37,642 - INFO - ✅ https://api.proxyscrape.com/v2/?request=displayproxies&proto... -> 217 прокси
+2026-09-17 21:02:37,671 - INFO - 
+📊 Успешно обработано: 25/36 источников
+2026-09-17 21:02:37,672 - INFO - 📊 Всего собрано уникальных прокси: 15105
+2026-09-17 21:02:37,677 - INFO - 🆕 Найдено 15105 новых прокси
+2026-09-17 21:02:37,680 - INFO - 
+🏓 Пингую 15105 прокси...
+
+2026-09-17 21:02:47,749 - INFO - ℹ️ Новые прокси не прошли проверку
